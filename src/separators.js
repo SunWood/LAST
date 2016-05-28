@@ -1,4 +1,4 @@
-
+'use strict';
 
 function thousands_separators(num) {
   var parts;
@@ -11,3 +11,4 @@ function thousands_separators(num) {
   }
 
 
+module.exports = thousands_separators;
