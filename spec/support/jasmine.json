@@ -1,6 +1,6 @@
 {
   "spec_dir": "spec",
-  "spec_src": [
+  "spec_srcseparators-spec": [
     "**/*[sS]pec.js"
   ],
   "helpers": [
