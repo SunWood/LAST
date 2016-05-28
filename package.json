@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sialvsic/thousands_separators.git"
+    "url": "git+https://github.com/SunWood/LAST.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sialvsic/thousands_separators/issues"
+    "url": "https://github.com/SunWood/LAST/issues"
   },
-  "homepage": "https://github.com/sialvsic/thousands_separators#readme"
+  "homepage": "https://github.com/SunWood/LAST#readme"
 }
