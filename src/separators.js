@@ -1,4 +1,4 @@
-'use strict';
+
 
 function thousands_separators(num) {
   var parts;
