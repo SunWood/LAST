@@ -1,4 +1,4 @@
-'spec_dir'
+'spec_dir';
 
 function thousands_separators(num) {
   var parts;
